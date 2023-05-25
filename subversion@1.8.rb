@@ -112,8 +112,3 @@ class SubversionAT18 < Formula
     system "#{bin}/svnadmin", "verify", "test"
   end
 end
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
